@@ -1,0 +1,3 @@
+Laptop not working | Laptop does not start | Employee1 | HIGH
+VPN access | Need VPN access | Employee2 | MEDIUM
+Application crash | Application crashes on startup | Employee3 | CRITICAL
